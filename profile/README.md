@@ -1,1 +1,1 @@
-<img src="../.gensetix/banner.svg" width="100%" alt="">
+<img src="https://github.com/gensetixapis/.github/blob/master/.gensetix/banner.svg" width="100%" alt="">
